@@ -1,0 +1,33 @@
+body{
+    background-color: aquamarine;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+#texty1{
+    border-width: 1px;
+    border-style:solid;
+    background: linear-gradient(to top, rgb(255, 228, 164), rgb(219, 180, 255));
+}
+
+.title1{
+    border-width: 2px;
+    border-style: outset;
+    border-color: blueviolet;
+    background: linear-gradient( rgb(255, 228, 164), rgb(219, 180, 255));
+}
+
+#section1{
+    border-width: 3px;
+    border-style: outset;
+    border-color: blueviolet;
+    background: linear-gradient(to top, gold, rgb(0, 195, 255));
+    box-shadow: 2px, 2px,2px;
+}
+img{
+    border-width: 2px;
+    border-style: outset;
+    border-color: rgb(0, 0, 0);
+    box-shadow: 2px, 2px,2px;
+}
+
