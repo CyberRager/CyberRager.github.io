@@ -31,3 +31,26 @@ img{
     box-shadow: 2px, 2px,2px;
 }
 
+#section2{
+    border-width: 2px;
+    border-style: outset;
+    background-image: url(Wall1.png);
+}
+
+#texty2{
+    border-width: 1px;
+    border-style:solid;
+    border-color: rgb(157, 255, 245);
+    background-image: url(Wall2.png);
+    font-size: 20px;
+    color: orange;
+}
+
+.title2{
+    border-width: 1px;
+    border-style: outset;
+    border-color: rgb(157, 255, 245);
+    background-image: url(Wall2.png);
+    font-size: 30px;
+    color: orange;
+}
