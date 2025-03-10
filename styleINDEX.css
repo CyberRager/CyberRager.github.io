@@ -18,6 +18,8 @@ body{
 }
 
 #section1{
+    padding-top: 20px;
+    padding-bottom: 20px;
     border-width: 3px;
     border-style: outset;
     border-color: blueviolet;
@@ -32,6 +34,8 @@ img{
 }
 
 #section2{
+    padding-top: 20px;
+    padding-bottom: 20px;
     border-width: 2px;
     border-style: outset;
     background-image: url(Wall1.png);
@@ -55,9 +59,12 @@ img{
     color: orange;
 }
 #section3{
+    padding-top: 20px;
+    padding-bottom: 20px;
     border-width: 2px;
     border-style: outset;
     background-image: url(Whynot1.png);
+    text-align: center;
 }
 
 #texty3{
@@ -67,13 +74,43 @@ img{
     background-image: url(BacUpdate.png);
     font-size: 30px;
     color: orange;
+    text-align: center;
 }
 
 .title3{
     border-width: 1px;
     border-style: outset;
-    border-color: rgb(157, 255, 245);
+    border-color: rgb(17, 255, 0);
     background-image: url(BacUpdate.png);
     font-size: 30px;
     color: orange;
+    text-align: center;
+}
+#section4{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-width: 2px;
+    border-style: outset;
+    background-image: url(Backtry1.png);
+}
+
+#texty4{
+    border-width: 1px;
+    border-style:solid;
+    border-color: rgb(77, 255, 0);
+    background-image: url(Backtry1.png);
+    font-size: 30px;
+    color: orange;
+    text-align: center;
+    text-decoration: line-through;
+}
+
+.title4{
+    border-width: 1px;
+    border-style: outset;
+    border-color: rgb(0, 255, 4);
+    background-image: url(Backtry1.png);
+    font-size: 30px;
+    color: orange;
+    text-align: center;
 }
