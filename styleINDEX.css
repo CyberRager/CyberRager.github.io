@@ -114,3 +114,45 @@ img{
     color: orange;
     text-align: center;
 }
+
+#section5{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-width: 2px;
+    border-style: outset;
+    background-image: url(Try4.png);
+}
+
+#texty5{
+    border-width: 1px;
+    border-style:solid;
+    border-color: rgb(77, 255, 0);
+    background-image: url(Try4.png);
+    font-size: 30px;
+    color: orange;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.title5{
+    border-width: 1px;
+    border-style: outset;
+    border-color: rgb(0, 255, 4);
+    background-image: url(Try4.png);
+    font-size: 30px;
+    color: orange;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#texty6{
+    list-style-type:none;
+    border-width: 1px;
+    border-style:solid;
+    border-color: rgb(77, 255, 0);
+    background-image: url(Try4.png);
+    font-size: 20px;
+    color: orange;
+    text-align: center;
+    
+
+}
