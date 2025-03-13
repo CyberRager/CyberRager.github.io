@@ -156,3 +156,33 @@ img{
     
 
 }
+
+#section7{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-width: 4px;
+    border-style: outset;
+    background-image: url(Spec1.png);
+}
+
+#texty7{
+    border-width: 3px;
+    border-style:solid;
+    border-color: rgb(77, 255, 0);
+    background-image: url(Spec1.png);
+    font-size: 30px;
+    color: orange;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.title7{
+    border-width: 3px;
+    border-style: outset;
+    border-color: rgb(0, 255, 4);
+    background-image: url(Spec1.png);
+    font-size: 30px;
+    color: orange;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
