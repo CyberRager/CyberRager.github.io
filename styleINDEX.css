@@ -186,3 +186,34 @@ img{
     text-align: center;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
+
+#section8{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-width: 4px;
+    border-style: outset;
+    background-image: url(RoverVid1.png);
+    background-size: contain;
+}
+
+#texty8{
+    border-width: 3px;
+    border-style:solid;
+    border-color: rgb(77, 255, 0);
+    background-image: url(RoverVid1.png);
+    font-size: 30px;
+    color: orange;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.title8{
+    border-width: 3px;
+    border-style: outset;
+    border-color: rgb(0, 255, 4);
+    background-image: url(RoverVid1.png);
+    font-size: 30px;
+    color: orange;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}

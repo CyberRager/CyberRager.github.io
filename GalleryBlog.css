@@ -1,0 +1,49 @@
+body{
+    background-image: linear-gradient(rgb(219, 255, 195), rgb(165, 255, 248));
+}
+img{
+    border-width: 2px;
+    border-style: outset;
+}
+#titlesection{
+    align-content: center;
+    font-size: 50px;
+    border: 3px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+    color: darkorange;
+}
+
+#section1{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-width: 2px;
+    border-style: outset;
+    background-image: url(BeachBack.png);
+    background-size: contain;
+}
+
+#texty1{
+    border-width: 1px;
+    border-style:solid;
+    border-color: rgb(77, 255, 0);
+    background-image: url(RoverVid1.png);
+    background-color: gold;
+    font-size: 30px;
+    color: orange;
+    text-align: center;
+    text-decoration: line-through;
+    
+}
+
+.title1{
+    border-width: 1px;
+    border-style: outset;
+    border-color: rgb(0, 255, 4);
+    background-image: url(RoverVid1.png);
+    background-color: gold;
+    font-size: 30px;
+    color: orange;
+    text-align: center;
+}
