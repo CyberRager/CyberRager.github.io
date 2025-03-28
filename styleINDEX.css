@@ -217,3 +217,37 @@ img{
     text-align: center;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
+
+.title9{
+    border-width: 3px;
+    border-style: outset;
+    border-color: rgb(0, 255, 4);
+    background-image: url(TestGimp3.png);
+    font-size: 30px;
+    color: orange;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+@keyframes myScale{
+    25%{transform:scale(0.7,0.7)}
+    50%{transform:scale(1,1)}
+    75%{transform:scale(0.7,0.7)}
+    }
+
+    #section9{
+        padding-top: 20px;
+        padding-bottom: 20px;
+        border-width: 4px;
+        border-style: outset;
+        background-image: url(RoverVid1.png);
+        background-size: contain;
+    }
+#sectionanim1{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-width: 4px;
+    animation: 2s linear 0s infinite running myScale;
+    border-style: outset;
+    background-image: url(RoverVid1.png);
+    background-size: contain;
+}
